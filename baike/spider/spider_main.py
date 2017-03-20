@@ -44,14 +44,3 @@ if __name__=="__main__":
     root_url = "http://baike.baidu.com/item/Python"
     obj_spider = SpiderMain()
     obj_spider.crawl(root_url)
-
-
-
-
-
-
-
-
-
-
-
